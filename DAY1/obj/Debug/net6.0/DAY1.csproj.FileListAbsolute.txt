@@ -1,0 +1,15 @@
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\bin\Debug\net6.0\DAY1.exe
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\bin\Debug\net6.0\DAY1.deps.json
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\bin\Debug\net6.0\DAY1.runtimeconfig.json
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\bin\Debug\net6.0\DAY1.dll
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\bin\Debug\net6.0\DAY1.pdb
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\DAY1.csproj.AssemblyReference.cache
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\DAY1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\DAY1.AssemblyInfoInputs.cache
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\DAY1.AssemblyInfo.cs
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\DAY1.csproj.CoreCompileInputs.cache
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\DAY1.dll
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\refint\DAY1.dll
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\DAY1.pdb
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\DAY1.genruntimeconfig.cache
+C:\Users\viren\OneDrive\Desktop\C#\DAY1\obj\Debug\net6.0\ref\DAY1.dll
